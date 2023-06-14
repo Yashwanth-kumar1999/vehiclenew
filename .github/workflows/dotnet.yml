@@ -43,3 +43,4 @@ jobs:
        context: .
        file: ./Dockerfile
        tags: yashwanthkumar1999/github-action:latest
+       cache-from: none
